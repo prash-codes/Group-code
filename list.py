@@ -1,4 +1,4 @@
-list1= ("item1", "item2", "item3", "item4", "item5", "item6", "item7", "item8")
+list1= ["item1", "item2", "item3", "item4", "item5", "item6", "item7", "item8"]
 print(list1)
 len_list = len(list1)
 print(len_list)
