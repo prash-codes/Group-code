@@ -1,0 +1,17 @@
+/* Footer */
+
+footer{
+    background-color: blue;
+    padding: 15px 23px;
+    color: azure;
+    text-align: center;
+
+}
+footer span a{
+    color: plum;
+    text-decoration: none;
+
+}
+footer span a:hover{
+    text-decoration: underline;
+}
